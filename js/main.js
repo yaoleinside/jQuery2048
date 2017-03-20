@@ -9,6 +9,8 @@ init();
 
 var newGame = function () {
     score = 0;
+    board = new Array();
+    over = false;
     init();
 }
 
