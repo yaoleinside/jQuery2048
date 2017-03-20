@@ -38,10 +38,24 @@ button:hover {
     border-radius: 10px;
 }
 
-.cell ,.number{
+.cell {
     width: 100px;
     height: 100px;
     border-radius: 6px;
     background-color: #ccc0b3;
     position: absolute;
+    text-align: center;
+    line-height: 100px;
+    font-size: 60px;
+}
+
+.number {
+    width: 100px;
+    height: 100px;
+    border-radius: 6px;
+    background-color: #ccc0b3;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+    font-size: 60px;
 }
